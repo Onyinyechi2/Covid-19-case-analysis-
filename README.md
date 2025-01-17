@@ -4,11 +4,11 @@ This projects analyzes the cases of Covid-19 for the period of Feb-April 2020, h
 
 Observations from the  COVID-19 Case analysis. 
 
-1. Case Growth: Confirmed cases show a high increase from February to March, both globally and inNigeria. 
+1.Case Growth: Confirmed cases show a high increase from February to March, both globally and inNigeria. 
   
-2. Death Rates: Death cases are low relative to confirmed cases in Nigeria, the highest death case in a day is 1.This shows a relatively low fatality rate, which could be as a result of underreporting or it could be the actual representation. 
+2.Death Rates: Death cases are low relative to confirmed cases in Nigeria, the highest death case in a day is 1.This shows a relatively low fatality rate, which could be as a result of underreporting or it could be the actual representation. 
 
-3. Global Comparison: Nigeria’s cases represent a small percentage of global cases but closely follow global trends, we can see that in the similar increase of cases by the months, both locally and globally. 
+3.Global Comparison: Nigeria’s cases represent a small percentage of global cases but closely follow global trends, we can see that in the similar increase of cases by the months, both locally and globally. 
 
 4.Totality: 
 Total number of confirmed cases globally: 
